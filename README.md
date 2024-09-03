@@ -1,0 +1,2 @@
+# bashlib
+A simple bashlib
